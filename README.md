@@ -1,16 +1,29 @@
-### Hi there 👋
+### *Hi there,I'm Xavier!* 👋
 
+# I'm a Student and Aspiring Devloper! 
+- 🔭 I’m currently working on Grok's NCSS 2020 (Intermediate)
+- 🌱 I’m currently learning EVERYTHING!
+- 🤔 I’m looking for help with C++ 
+- 💬 Ask me about HTML
+- ⚡ Fun fact: I build Computers!
+
+
+# Programs I Use
+
+Adobe Dreamweaver,
+Unity,
+Blender,
+Visual Studio Code,
+Visual Studio,
+IDLE,
+Pycharm,
+Eclipse,
+
+# Codeing Languages i Use!
+C++
+C#
+HTML/CSS
+Javascript
 <!--
 **Devloper-llama/Devloper-llama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
