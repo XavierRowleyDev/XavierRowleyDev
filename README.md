@@ -20,10 +20,10 @@ Pycharm,
 Eclipse,
 
 # Codeing Languages i Use!
-C++
-C#
-HTML/CSS
-Javascript
+C++,
+C#,
+HTML/CSS,
+Javascript,
 <!--
 **Devloper-llama/Devloper-llama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
