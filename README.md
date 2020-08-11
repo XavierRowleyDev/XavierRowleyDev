@@ -18,6 +18,7 @@ Visual Studio,
 IDLE,
 Pycharm,
 Eclipse,
+IntelliJ IDEA
 
 # Codeing Languages i Use!
 C++,
