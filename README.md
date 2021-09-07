@@ -1,7 +1,7 @@
 ### *Hi there,I'm Xavier!* 👋
 
 # I'm a Student and Aspiring Devloper! 
-- 🔭 I’m currently working on IST Assessment 3
+- 🔭 I’m currently working on building my own OS with the Linux Kernel
 - 🌱 I’m currently learning EVERYTHING!
 - 🤔 I’m looking for help with C++ 
 - 💬 Ask me about HTML
@@ -25,6 +25,7 @@ C++,
 C#,
 HTML/CSS,
 Javascript,
+Python
 <!--
 **Devloper-llama/Devloper-llama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
