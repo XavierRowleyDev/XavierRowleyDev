@@ -1,7 +1,7 @@
 ### *Hi there,I'm Xavier!* 👋
 
 # I'm a Student and Aspiring Devloper! 
-- 🔭 I’m currently working on Grok's NCSS 2020 (Intermediate)
+- 🔭 I’m currently working on IST Assessment 3
 - 🌱 I’m currently learning EVERYTHING!
 - 🤔 I’m looking for help with C++ 
 - 💬 Ask me about HTML
