@@ -1,9 +1,9 @@
 ### *Hi there,I'm Xavier!* 👋
 
 # I'm a Student and Aspiring Devloper! 
-- 🔭 I’m currently working on C++
+- 🔭 I’m currently working on C# and Ethical Hacking
 - 🌱 I’m currently learning EVERYTHING!
-- 🤔 I’m looking for help with C++ 
+- 🤔 I’m looking for help with C#
 - 💬 Ask me about HTML
 - ⚡ Fun fact: I build Computers!
 
