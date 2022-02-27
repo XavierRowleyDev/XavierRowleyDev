@@ -1,6 +1,6 @@
 ### *Hi there,I'm Xavier!* 👋
 
-# I'm a Student and Aspiring Devloper! 
+# I'm a Student and Aspiring Game Devloper! 
 - 🔭 I’m currently working on C++ and Unreal Engine
 - 🌱 I’m currently learning C++!
 - 💬 Ask me about HTML
