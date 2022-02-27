@@ -1,20 +1,20 @@
 ### *Hi there,I'm Xavier!* 👋
 
 # I'm a Student and Aspiring Devloper! 
-- 🔭 I’m currently working on C# and Ethical Hacking
-- 🌱 I’m currently learning EVERYTHING!
-- 🤔 I’m looking for help with C#
+- 🔭 I’m currently working on C++ and Unreal Engine
+- 🌱 I’m currently learning C++!
 - 💬 Ask me about HTML
-- ⚡ Fun fact: I build Computers!
+- ⚡ Fun fact: I build Computers and play Guitar 
 
 
 # Programs I Use
 
 Adobe Dreamweaver,
 Unity,
+Unreal Engine,
 Blender,
 Visual Studio Code,
-Visual Studio,
+G++,
 IDLE,
 Pycharm,
 Eclipse,
@@ -22,8 +22,8 @@ IntelliJ IDEA
 
 # Codeing Languages i Use!
 C++,
-C#,
-HTML/CSS,
+HTML5,
+CSS3,
 Javascript,
 Python
 <!--
