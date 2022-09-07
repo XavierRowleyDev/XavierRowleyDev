@@ -20,7 +20,7 @@ Hey, My name is Xavier! I'm a student and aspiring Network Engineer but I also w
 
 <hr/>
 -->
-## Technologies I Use!
+## Technologies I Use:
 
 <table>
   <tbody>
@@ -36,11 +36,11 @@ Hey, My name is Xavier! I'm a student and aspiring Network Engineer but I also w
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-          <!--> <td width="25%" align="center">
-        <span><strong>React</strong>
+           <td width="25%" align="center">
+        <span><strong>C#</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td> -->
+        <img height="64px" src="https://www.iconfinder.com/icons/9073079/c_sharp_icon#png-64">
+      </td> 
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
