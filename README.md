@@ -36,7 +36,11 @@ Hey, My name is Xavier! I'm a student and aspiring Network Engineer but I also w
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-     
+          <!--> <td width="25%" align="center">
+        <span><strong>React</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+      </td> -->
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
