@@ -86,7 +86,7 @@ Hey, My name is Xavier! I'm a student and aspiring Network Engineer but I also w
 <hr>
 
 <h1 align="center">
-✨ Where you can find me ✨
+✨ Where you can find me ✨ --->
   
   <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
 
