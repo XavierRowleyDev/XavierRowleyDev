@@ -92,9 +92,9 @@ Hey, My name is Xavier! I'm a student and aspiring Network Engineer but I also w
 
   <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
 
-  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
+ 
 
-  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
+  
 
   <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
 <!--
