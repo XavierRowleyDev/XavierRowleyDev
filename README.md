@@ -37,11 +37,7 @@ Hey, My name is Xavier! I'm a student and aspiring Network Engineer but I also w
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-     <!--> <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td> -->
+  
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -49,11 +45,7 @@ Hey, My name is Xavier! I'm a student and aspiring Network Engineer but I also w
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
       </td>
-  <!-->    <td width="25%" align="center">
-        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-      </td> -->
+ 
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
@@ -97,26 +89,12 @@ Hey, My name is Xavier! I'm a student and aspiring Network Engineer but I also w
   
 
   <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
-<!--
-<p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  -->
+
   <a href="https://github.com/XavierRowleyDev">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
 
-<!-->
-  <br/>
-  <a href="https://www.facebook.com/profile.php?id=100026103873514">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
- 
-  <a href="https://www.instagram.com/parth._.27/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
+
 -->
   <a href="https://twitter.com/XavierRowleyDev">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
