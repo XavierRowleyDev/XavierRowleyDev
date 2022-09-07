@@ -48,11 +48,11 @@ Hey, My name is Xavier! I'm a student and aspiring Network Engineer but I also w
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
       </td>
-  <!-->    <td width="25%" align="center">
-        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
+      <td width="25%" align="center">
+        <span><strong>Shell</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-      </td> -->
+        <img height="64px" src="https://cdn2.iconfinder.com/data/icons/flat-master-2/32/command_prompt-512.png">
+      </td> 
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
