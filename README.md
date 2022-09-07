@@ -64,8 +64,8 @@ Hey, My name is Xavier! I'm a student and aspiring Network Engineer but I also w
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+        <span><strong>UWP</strong></span><br><br><br>
+        <img height="64px" src="https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__windows__2_-512.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
