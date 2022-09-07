@@ -1,10 +1,9 @@
 ### *Hi there,I'm Xavier!* 👋
 
-# I'm a Student and Aspiring Game Devloper! 
-- 🔭 I’m currently working on C++ and Unreal Engine
+# I'm a Student and I work on whatever I feel like
+- 🔭 I’m currently working on UWP and SQL
 - 🌱 I’m currently learning C++!
-- 💬 Ask me about HTML
-- ⚡ Fun fact: I build Computers and play Guitar 
+- 💬 Networking and HTML
 
 
 # Programs I Use
