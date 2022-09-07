@@ -39,7 +39,7 @@ Hey, My name is Xavier! I'm a student and aspiring Network Engineer but I also w
            <td width="25%" align="center">
         <span><strong>C#</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-1/15/c-sharp-1024.png">
+        <img height="64px" src="https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-1/15/c-sharp-1024.png">
       </td> 
     </tr>
     <tr valign="top">
