@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey, My name is Xavier! I'm a student and aspiring Network Engineer but I also work on whatever programing languages and programs that I'm currently interested in.
+Hey, My name is Xarsis! I'm a student and aspiring Network Engineer but I also work on whatever programing languages and programs that I'm currently interested in.
 
 <!-- ## Coding Profiles
 
